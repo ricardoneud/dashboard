@@ -286,7 +286,7 @@
     "undici": "^5.8.0",
     "unpipe": "^1.0.0",
     "uri-js": "^4.4.1",
-    "utf-8-validate": "^5.0.9",
+    "utf-8-validate": "^6.0.4",
     "util": "^0.10.4",
     "util-deprecate": "^1.0.2",
     "utils-merge": "^1.0.1",
